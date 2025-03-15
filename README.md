@@ -20,10 +20,11 @@ I am seeking opportunities of work. If you are interested in my work, please fee
 ## 1. Task brief
 Deepfake techniques bring a significant risk to face recognition system, but existing deepfake detection methods are often overfitted to the specific forgery patterns from the training samples, and thus perform poorly on unseen samples.
 
-| Real Face                    | Fake Face                    |
+## Pair of real and fake images forged by Deepfake from FF++ dataset
+
 |-------------------------------|-------------------------------|
 | ![Real](./img/r.png)  | ![Fake](./img/f.png)   |
-|Pair of real and fake images forged by Deepfake from FF++ dataset|
+| Real Face                    | Fake Face                    |
 
 <a id="problem"></a>
 ## 2. Existing problem
