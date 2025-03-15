@@ -20,6 +20,11 @@ I am seeking opportunities of work. If you are interested in my work, please fee
 ## 1. Task brief
 Deepfake techniques bring a significant risk to face recognition system, but existing deepfake detection methods are often overfitted to the specific forgery patterns from the training samples, and thus perform poorly on unseen samples.
 
+### 调整大小
+<img src="cat.jpg" alt="小猫" width="300" style="border: 2px solid #eee;" />
+### 本地图片
+![本地文件](./img/r.png)
+
 <a id="problem"></a>
 ## 2. Existing problem
 这里是简介内容。
