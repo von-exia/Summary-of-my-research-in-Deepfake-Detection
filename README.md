@@ -22,9 +22,10 @@ Deepfake techniques bring a significant risk to face recognition system, but exi
 
 ## Pair of real and fake images forged by Deepfake from FF++ dataset
 
+| Real Face                    | Fake Face                    |
 |-------------------------------|-------------------------------|
 | ![Real](./img/r.png)  | ![Fake](./img/f.png)   |
-| Real Face                    | Fake Face                    |
+
 
 <a id="problem"></a>
 ## 2. Existing problem
