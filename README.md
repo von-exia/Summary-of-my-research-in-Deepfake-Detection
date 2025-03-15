@@ -18,7 +18,7 @@ I am seeking opportunities of work. If you are interested in my work, please fee
 
 <a id="intro"></a>
 ## 1. Task brief
-Deepfake techniques bring a significant risk to face recognition system, but existing deepfake detection methods are often overfitted to the specific forgery patterns from the training samples, and thus perform poorly on unseen samples.
+Deepfake techniques bring a significant risk to face recognition system, but existing Deepfake Detection (DfD) methods are often overfitted to the specific forgery patterns from the training samples, and thus perform poorly on unseen samples. Concretely, DfD is a simple binary classification task, but it is not that simple as we think. Followings are a pair of real/fake images from popular FF++ training set. Usually, the existing works adopt the pre-trained face detection model to crop the face region for the deepfake detector. Since this preprocessing operation make the detector focus on learning the forgery clues around face region.
 
 ## Pair of real and fake images forged by Deepfake from FF++ dataset
 
