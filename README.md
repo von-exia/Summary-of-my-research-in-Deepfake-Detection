@@ -7,7 +7,9 @@ CaiBoFengEXIA@outlook.com
 ```
 ## 👀 Overview of Content
 - [Task brief](#intro)
-- [Existing Problem](#problem)
+- [Existing problem](#problem)
+- [Future work](#future)
+- [Value for society and buisness](#value)
 
 ---
 
@@ -16,6 +18,14 @@ CaiBoFengEXIA@outlook.com
 这里是简介内容。
 
 <a id="problem"></a>
-## 2. Existing Problem
+## 2. Existing problem
+这里是简介内容。
+
+<a id="future"></a>
+## 3. Future work
+这里是简介内容。
+
+<a id="future"></a>
+## 4. Value for society and buisness
 这里是简介内容。
 
