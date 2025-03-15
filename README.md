@@ -30,9 +30,9 @@ Deepfake techniques bring a significant risk to face recognition system, but exi
 <a id="problem"></a>
 ## 2. Existing problem
 ### (1) ⚠️ Outdated datasets
-i. Almost all of the existing works training their detectors on the popular FF++ ddataset for fair comparison. However, it is a dataset that released in 2019! The fake images here (see the above figure) is so easy to detect, even by human eyes. 
-ii. On the other hand, the FF++ dataset provides the fake images forged by 4️⃣ fogery methods, which means it only contains four forgery patterns. It is insufficient to train a relatively useful detector for now.
-iii. In order to publish papers, researchers still only conduct their experiments on FF++. Personally speaking, it is so boring. This practice is harmful to develop a practical deepfake detector, and stops our steps to go forward.
+- i. Almost all of the existing works training their detectors on the popular FF++ ddataset for fair comparison. However, it is a dataset that released in 2019! The fake images here (see the above figure) is so easy to detect, even by human eyes. 
+- ii. On the other hand, the FF++ dataset provides the fake images forged by 4️⃣ fogery methods, which means it only contains four forgery patterns. It is insufficient to train a relatively useful detector for now.
+- iii. In order to publish papers, researchers still only conduct their experiments on FF++. Personally speaking, it is so boring. This practice is harmful to develop a practical deepfake detector, and stops our steps to go forward.
 ### (2) 🫥 Different bounding box to crop face
 ### (3) 😶‍🌫️ Impractical evaluation metrics
 ### (4) 🙄 More diverse forgery samples do not bring better performance
