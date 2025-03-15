@@ -23,6 +23,7 @@ Deepfake techniques bring a significant risk to face recognition system, but exi
 | Real Face                    | Fake Face                    |
 |-------------------------------|-------------------------------|
 | ![Real](./img/r.png)  | ![Fake](./img/f.png)   |
+|Pair of real and fake images forged by Deepfake from FF++ dataset|
 
 <a id="problem"></a>
 ## 2. Existing problem
