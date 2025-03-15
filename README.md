@@ -29,7 +29,11 @@ Deepfake techniques bring a significant risk to face recognition system, but exi
 
 <a id="problem"></a>
 ## 2. Existing problem
-这里是简介内容。
+### (1) ⚠️ Outdated datasets
+### (2) 🫥 Different bounding box to crop face
+### (3) 😶‍🌫️ Impractical evaluation metrics
+### (4) 🙄 More diverse forgery samples do not bring better performance
+### (5) 🤥 Lack interpretebility
 
 <a id="future"></a>
 ## 3. Future work
