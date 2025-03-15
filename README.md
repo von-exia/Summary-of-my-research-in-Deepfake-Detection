@@ -1,4 +1,4 @@
-# Summary-of-my-research-in-Deepfake-Detection
+# Summary of my research in Deepfake Detection
 ## 🐋 Personal Introduction
 ```
 Caibo Feng, Mar 2025
