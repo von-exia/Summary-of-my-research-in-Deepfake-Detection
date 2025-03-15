@@ -6,7 +6,7 @@ gn001_888@163.com; CaiBoFengEXIA@outlook.com
 ```
 Maybe I won, maybe I failed. Whatever, I can only keep going.㊗️
 I am currently a master student, whose research interest focuses on Deepfake Detection.
-I am seeking opportunities of work. If you are interested in my work, please feel free to contact me.🤝
+I am seeking opportunities of job. If you are interested in my work, please feel free to contact me.🤝
 
 ## Update table
 v0.1 - 15 Mar 2025
