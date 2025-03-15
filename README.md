@@ -38,8 +38,8 @@ On the other hand, the FF++ dataset provides the fake images forged by 4️⃣ f
 In order to publish papers, researchers still only conduct their experiments on FF++. Personally speaking, it is so boring. This practice is harmful to develop a practical deepfake detector, and stops our steps to go forward.
 ### (2) 🫥 Different bounding box to crop face
 ### (3) 😶‍🌫️ Impractical evaluation metrics
-AUC, AP, EER are the most used metric in the papers of DfD. Since it demonstrates the comprehensive performance of detectors. Nevertheless, the accuracy (ACC) of almost every methods is low, which means these detectors still have no power to deal with the samples from different domains.
-### (4) 🙄 More diverse forgery samples do not bring better performance
+AUC, AP, EER are the most used metric in the papers of DfD. Since they demonstrate the comprehensive performance of detectors. Nevertheless, the accuracy (ACC) of almost every methods is low, which means these detectors still have no power to deal with the samples from different domains.
+### (4) 🙄 More diverse forgery samples do not always bring better performance
 ### (5) 🤥 Lack interpretebility
 
 <a id="future"></a>
