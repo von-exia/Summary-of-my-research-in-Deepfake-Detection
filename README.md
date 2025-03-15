@@ -8,12 +8,14 @@ Maybe I won, maybe I failed. Whatever, I can only keep going.㊗️
 I am currently a master student, whose research interest focuses on Deepfake Detection.
 I am seeking opportunities of work. If you are interested in my work, please feel free to contact me.🤝
 
+## Update table
+v0.1 - 15 Mar 2025
+
 ## 👀 Overview of Content
 - [Task brief](#intro)
 - [Existing problem](#problem)
 - [Future work](#future)
 - [Value for society and buisness](#value)
-
 ---
 
 <a id="intro"></a>
@@ -47,9 +49,9 @@ Currently, CLIP-ViT is discovered as the best backbone of the detectors. However
 
 <a id="future"></a>
 ## 3. Future work
-这里是简介内容。
+TBD
 
 <a id="value"></a>
 ## 4. Value for society and buisness
-这里是简介内容。
+TBD
 
