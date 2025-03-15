@@ -10,7 +10,7 @@ CaiBoFengEXIA@outlook.com
 - [Existing problem](#problem)
 - [Future work](#future)
 - [Value for society and buisness](#value)
-
+Maybe I won, maybe I failed. Whatever, I can only keep going㊗️
 ---
 
 <a id="intro"></a>
