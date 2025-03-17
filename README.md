@@ -15,7 +15,7 @@ v0.1 - 15 Mar 2025
 - [Task brief](#intro)
 - [Existing problems](#problem)
 - [Future work](#future)
-- [Value for society and buisness](#value)
+- [Value for society and business](#value)
 ---
 
 <a id="intro"></a>
@@ -52,6 +52,6 @@ Currently, CLIP-ViT is discovered as the best backbone of the detectors. However
 TBD
 
 <a id="value"></a>
-## 4. Value for society and buisness
+## 4. Value for society and business
 TBD
 
