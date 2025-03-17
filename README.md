@@ -13,7 +13,7 @@ v0.1 - 15 Mar 2025
 
 ## 👀 Overview of Content
 - [Task brief](#intro)
-- [Existing problem](#problem)
+- [Existing problems](#problem)
 - [Future work](#future)
 - [Value for society and buisness](#value)
 ---
@@ -30,7 +30,7 @@ Deepfake techniques bring a significant risk to face recognition system, but exi
 
 
 <a id="problem"></a>
-## 2. Existing problem
+## 2. Existing problems
 ### (1) ⚠️ Outdated datasets
 #### i. Low forgery quality
 Almost all of the existing works training their detectors on the popular FF++ ddataset for fair comparison. However, it is a dataset that released in 2019! The fake images here (see above figure) is so easy to detect, even by human eyes.
