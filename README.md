@@ -49,7 +49,20 @@ Currently, CLIP-ViT is discovered as the best backbone of the detectors. However
 
 <a id="future"></a>
 ## 3. Future work
-TBD
+### (1) ⚠️ Major problems (importance is down from top to bottom)
+#### i. More effective learning methodd for DfD (or for other vision task)
+
+#### ii. Data cleaning and annotation methods
+
+#### iii. High quality image pairs of real and fake images
+
+#### iv. Model updating methodd to handle constantly incremental forgery patterns (like a planning agent)
+
+### (2) ⚠️ Minor problems
+#### i. Specific and useful vision backbone for DfD
+
+#### ii. Effective data augmentation
+
 
 <a id="value"></a>
 ## 4. Value for society and business
