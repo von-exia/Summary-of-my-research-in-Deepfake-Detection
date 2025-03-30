@@ -14,7 +14,9 @@ v0.1 - 15 Mar 2025
 ## 👀 Overview of Content
 - [Task brief](#intro)
 - [Existing problems](#problem)
-- [Future work](#future)
+- [Future orientations](#future)
+--[Major orientations](#major)
+--[Minor orientations](#minor)
 - [Value for society and business](#value)
 ---
 
@@ -48,8 +50,9 @@ When training the detectors with the latest DF40 dataset, you will find the dete
 Currently, CLIP-ViT is discovered as the best backbone of the detectors. However, some work proves that ViT recognizes the real/fake images via high-level semantic information, instead of low-level forgery clues. The high-level semantic information is difficult to explain, and human eyes can not distinguish between real/fake images. Therefore, it is hard for us to annotate the text description for a fake face image, which means we can not re-train a backbone like CLIP or LLaVA with image-text pairs.
 
 <a id="future"></a>
-## 3. Future work
-### (1) ⚠️ Major problems (importance is down from top to bottom)
+## 3. Future orientations
+<a id="major"></a>
+### (1) ⚠️ Major orientations (importance is down from top to bottom)
 #### i. More effective learning methodd for DfD (or for other vision task)
 
 #### ii. Data cleaning and annotation methods
@@ -58,10 +61,11 @@ Currently, CLIP-ViT is discovered as the best backbone of the detectors. However
 
 #### iv. Model updating methodd to handle constantly incremental forgery patterns (like a planning agent)
 
-### (2) ⚠️ Minor problems
+<a id="minor"></a>
+### (2) ⚠️ Minor orientations
 #### i. Specific and useful vision backbone for DfD
 
-#### ii. Effective data augmentation
+#### ii. Generally effective data augmentation methods
 
 
 <a id="value"></a>
