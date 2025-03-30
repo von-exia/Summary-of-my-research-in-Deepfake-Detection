@@ -10,6 +10,7 @@ I am seeking opportunities of job. If you are interested in my work, please feel
 
 ## Update table
 v0.1 - 15 Mar 2025
+v0.5 - 30 Mar 2025
 
 ## 👀 Overview of Content
 - [Task brief](#intro)
