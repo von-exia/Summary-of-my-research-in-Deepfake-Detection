@@ -15,8 +15,8 @@ v0.1 - 15 Mar 2025
 - [Task brief](#intro)
 - [Existing problems](#problem)
 - [Future orientations](#future)
---[Major orientations](#major)
---[Minor orientations](#minor)
+  - [Major orientations](#major)
+  - [Minor orientations](#minor)
 - [Value for society and business](#value)
 ---
 
